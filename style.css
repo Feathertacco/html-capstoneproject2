@@ -1,0 +1,28 @@
+<!--Title-->
+.pgh{
+    position: relative;
+}
+.pgh > img{
+    z-index: 1;
+}
+.pgh > div{
+    z-index: 2;
+    position: absolute;
+}
+.t{
+    font-family: "Caveat", serif;
+
+    color: #6096B4;
+}
+.text{
+    font-family: "IBM Plex Serif", serif;
+
+    color: #6096B4;
+}
+.about{
+    font-size: 4rem;
+    font-family: "IBM Plex Serif", serif;
+}
+.mer{
+    font-family: "Caveat", serif;
+}
